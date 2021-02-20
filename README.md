@@ -1,2 +1,2 @@
 # MC7RoundedImageView
- B4A Library1
+ B4A Library
